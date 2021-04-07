@@ -1,6 +1,6 @@
-## Farm Automation using arduino
+## ✨✨Farm Automation using arduino
 
-### These following parts and tools are required for building this project:
+### 💡💡These following parts and tools are required for building this project:
 • Arduino uno<br/>
 • Servo motor<br/>
 • MQ-3 Gas sensor<br/>
@@ -12,7 +12,7 @@
 • 12 volt battery<br/>
 • On /Off switch<br/>
 
-### Our system will perform following action:
+### 📝📝Our system will perform following action:
 
 1) In Cattles room the temperature maintenance is very important.LM35 sensors always measure the room temperature. If the temperature rises then the Fan of the room (motor) will Activate automatically.Else if the temperature becomes low then fan stops moving.<br/>
 2)We have used MQ-3 gas sensor.It detects bad gas(as an example we used methane).When it detects bad gas at large amount then it shows the message in LCD.<br/>
