@@ -1,18 +1,18 @@
 ## Farm_Automation_in_arduino
 
 ### These following parts and tools are required for building this project:
-• Arduino uno
-• Servo motor
-• MQ-3 Gas sensor
-• LM-35 sensor(temperature)
-• PIR Motion sensors(HC-SR501)
+• Arduino uno<br/>
+• Servo motor<br/>
+• MQ-3 Gas sensor<br/>
+• LM-35 sensor(temperature)<br/>
+• PIR Motion sensors(HC-SR501)<br/>
 • MPX4115 Pressure sensor
 • LCD
 • Male and Female wire
 • 12 volt battery
 • On /Off switch
 
-Our system will perform following action:
+### Our system will perform following action:
 
 1) In Cattles room the temperature maintenance is very important.LM35 sensors always measure the room temperature. If the temperature rises then the Fan of the room (motor) will Activate automatically.Else if the temperature becomes low then fan stops moving.
 
