@@ -1,4 +1,4 @@
-## Farm_Automation_in_arduino
+## Farm Automation using arduino
 
 ### These following parts and tools are required for building this project:
 • Arduino uno<br/>
